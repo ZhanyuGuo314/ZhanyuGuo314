@@ -1,5 +1,11 @@
 ## Hi there 👋
+# Zhanyu Guo
 
+Undergraduate student at the University of Electronic Science and Technology of China (UESTC).
+
+Member of the UESTC AI Club.
+
+Email: 2024020911023@std.uestc.edu.cn
 <!--
 **ZhanyuGuo314/ZhanyuGuo314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
