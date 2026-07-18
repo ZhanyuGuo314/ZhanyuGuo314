@@ -1,9 +1,10 @@
 ## Hi there 👋
 # Zhanyu Guo
 
-Undergraduate student at the University of Electronic Science and Technology of China (UESTC).
+I am an undergraduate student at the 
+University of Electronic Science and Technology of China (UESTC).
 
-Member of the UESTC AI Club.
+My research interests include computer vision and machine learning.
 
 Email: 2024020911023@std.uestc.edu.cn
 <!--
